@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "T4MMI-B48",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100082215656149",
+    "61563978029185"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100082215656149",
     ""
   ],
   "OWNER": ["100000959749712"], 
